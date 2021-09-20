@@ -1,0 +1,58 @@
+img {
+	width: 115px;
+	height: 40px;
+
+}
+
+body{
+	font-size: 12px;
+	margin: 5px 100px;
+	font-weight: lighter;
+}
+
+h1{
+	font-size: 25px;
+	color: red;
+}
+
+.p1{
+	font-size: 12px;
+	background: blue;
+	color: white;
+	width: 75px;
+	}
+
+.p2{
+	padding-top: 70px;
+}
+
+
+.span1{
+	color: red;
+}
+
+.h2{
+	background: green;
+	padding: 5px 5px;
+	color: white;
+}
+
+a{
+	color: blue;
+}
+
+.h3{
+	background: green;
+	padding: 45px 50px;
+	color: white;
+}
+
+.p3{
+	padding-left: 50px;
+}
+
+.list{
+	font-size: 20px;
+	border: 1px solid black;
+}
+
